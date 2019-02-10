@@ -1,0 +1,31 @@
+A. Tes Teknikal : Materi Pengetahuan Umum
+1. Multi-threading : adalah sebuah teknik dalam mengeksekusi sekumpulan proses dengan menggunakan satu perintah.
+Pada prosesnya, teknik ini memerlukan sumber daya yang cukup besar mencakup CPU, memory atau storage.
+Apabila saat mengeksekusi salah satu perintah terjadi kesalahan, tidak akan mempengaruhi proses lainnya yang sedang berjalan.
+2. unit testing : idealnya unit testing diperlukan dan sangat membantu dalam melakukan pengujian terhadap suatu fungsi, sehingga
+dapat meminimalisir kesalahan yang dibuat saat fungsi tersebut dibuat.Namun terkadang, untuk mempercepat proses bagi developer dan 
+tanpa menghabiskan waktu untuk membuat unit testing biasanya seorang developer tidak akan membuat unit testing untuk mengetes fungsi yang sudah dibuat.
+3. ORM : adalah sebuah teknologi yang memanfaatkan pandangan OOP.Sehingga dapat lebih mudah diproses, karena secara default obyek-obyek tersebut
+memiliki karakter,metode,dan ciri khas yang bisa dimanipulasi dengan bantuan obyek lainnya.
+4. Micro services : adalah sebuah bentuk arsitektur komputasi yang digunakan untuk membantu tidak hanya satu atau dua aplikasi saja, tetapi beberapa aplikasi
+yang menggunakan fungsionalitas dan manfaat yang sama.
+5. RESTFull : adalah sebuah arsitektur aplikasi untuk sistem terdistribusi semisal web. Model ini digunakan agar dapat mempermudah dilakukan akses terhadap
+aplikasi yang sudah ditentukan.POST digunakan apabila data yang dikirimkan tidak ingin diketahui oleh pihak ketiga. GET digunakan apabila variabel atau data
+tersebut dapat dilihat atau diketahui oleh pihak ketiga dan digunakan untuk tujuan mempermudah dalam proses selanjutnya.
+6. (0→ paling rendah, 10→ paling tinggi)
+- Javascript: 8
+- React: 0
+- Node.js: 0
+- Python: 0
+- Java: 9
+- Go: 8
+- PHP: 10
+- MongoDB: 0
+- AWS: 0
+- Cassandra: 0
+- Elastic Search: 2
+- Data Science: 4
+- Git: 6
+- CI/CD: 0
+- Docker: 0
+- MySQL: 9
