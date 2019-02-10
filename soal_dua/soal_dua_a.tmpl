@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Test Teknikal Nomor 2</title>
+    </head>
+    <body>
+        <h2>Tes Teknikal Nomor 2</h2>
+        <p>
+            Tes teknikal pegadaian untuk nomor 2. Soalnya sebagai berikut: <br/><br/>
+            Buatlah RESTful API dari soal nomor 1 dengan ketentuan sebagai berikut: <br/>
+            <ul>
+             <li>POST untuk submit angka yang akan ditentukan angka terbesar dan terkecil ke dalam database</li>
+             <li>Simpan angka-angka tersebut kedalam database MySQL</li>
+             <li>GET untuk mendapatkan angka terbesar dan terkecil dari sejumlah angka yang sudah disimpan dalam database<br/>
+                    Contoh:<br/>
+                        curl -X GET http://localhost/get_hitung_angka<br/>
+                    output :<br/>
+                        {"angka_terbesar": 12345,"angka_terkecil": -25}
+                </li>
+            </ul>
+        </p>
+        <form method="post" action="insert">
+            <label>Isi nilai : </label>
+            <input type="text" name="txtVal"/>
+            <button type="submit">Simpan</button>
+        </form>
+        <a href="get_hitung_angka">Lihat Hasil</a>
+    </body>
+</html>
